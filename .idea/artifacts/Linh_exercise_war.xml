@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="Linh_exercise:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>Linh_exercise</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="Linh_exercise-1.0-SNAPSHOT.war">
+      <element id="artifact" artifact-name="Linh_exercise:war exploded" />
+    </root>
+  </artifact>
+</component>

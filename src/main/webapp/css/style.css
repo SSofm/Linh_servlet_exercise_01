@@ -1,0 +1,10 @@
+.row {
+    margin: 50px 50px 50px;
+}
+.col-lg-4 img {
+    width: 100%;
+    transition: all 0.3s ease-in-out;
+}
+.col-lg-4 img:hover {
+    transform: scale(1.1);
+}
